@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Jouc</string>
+    <string name="email">Email</string>
+    <string name="jouc">JOUC</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="todo">TODO</string>
+</resources>
